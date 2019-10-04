@@ -202,3 +202,5 @@ We are grateful to the authors of existing related projects for their ideas and 
 ## License
 
 Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).
+
+P.S: We have modified css and sass-loader to able to run less files with https://github.com/erdemkeren on a pair-code session. Special thanks to Erdem for precious affords and guiding he provide.
